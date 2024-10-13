@@ -1,0 +1,103 @@
+# Ignore build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# ASP.NET Specific
+appsettings.*.json
+appsettings.Development.json
+appsettings.json
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Publish output
+.publish/
+
+# IIS Logs folder
+IISExpress/
+
+# Local History for Visual Studio
+.localhistory/
+
+# VS Code settings
+.vscode/
+
+# Recycle Bin used by local dev
+$RECYCLE.BIN/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$Recycle.Bin/
+
+# WebStorm
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated and compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.log
+*.vspscc
+*.vssscc
+*.class
+*.pyc
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vssscc
+*.dbmdl
+*.mdf
+*.ldf
+*.jfm
+*.pyo
+*.keystore
+*.orig
+
+# NuGet Packages
+*.nuget/
+.nuget/
+
+# Rider specific
+.idea/
+
+# Database files
+*.mdf
+*.ldf
+
+/Properties
